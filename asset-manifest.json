@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eduardodgraziano/static/css/main.a617e044.chunk.css",
+    "main.js": "/eduardodgraziano/static/js/main.12966af2.chunk.js",
+    "main.js.map": "/eduardodgraziano/static/js/main.12966af2.chunk.js.map",
+    "runtime-main.js": "/eduardodgraziano/static/js/runtime-main.9235ba4a.js",
+    "runtime-main.js.map": "/eduardodgraziano/static/js/runtime-main.9235ba4a.js.map",
+    "static/js/2.5d099719.chunk.js": "/eduardodgraziano/static/js/2.5d099719.chunk.js",
+    "static/js/2.5d099719.chunk.js.map": "/eduardodgraziano/static/js/2.5d099719.chunk.js.map",
+    "static/js/3.f8d59fee.chunk.js": "/eduardodgraziano/static/js/3.f8d59fee.chunk.js",
+    "static/js/3.f8d59fee.chunk.js.map": "/eduardodgraziano/static/js/3.f8d59fee.chunk.js.map",
+    "index.html": "/eduardodgraziano/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/eduardodgraziano/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5d099719.chunk.js.LICENSE.txt": "/eduardodgraziano/static/js/2.5d099719.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/eduardodgraziano/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9235ba4a.js",
+    "static/js/2.5d099719.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.12966af2.chunk.js"
+  ]
+}
