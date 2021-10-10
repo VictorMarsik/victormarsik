@@ -11,7 +11,7 @@ const HeaderContainer = styled(Container)`
 const HeaderText = styled.p`
   font-size: 4rem;
   font-family: 'Nunito';
-  margin: 4rem 0 2rem;
+  margin: 0 0 2rem;
   text-align: center;
 `;
 
