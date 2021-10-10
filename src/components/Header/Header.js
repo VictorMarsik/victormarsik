@@ -6,7 +6,7 @@ import data from '../../daja.json';
 const Header = () => {
   return (
     <HeaderContainer>
-      <Col sm={12} lg={6}>
+      <Col sm={12} md={6}>
         <HeaderText>{data.name}</HeaderText>
         <PicWrapper>
           <Col lg={7}>

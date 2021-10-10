@@ -1,3 +1,13 @@
 {
-    "name": "Eduardo D. Graziano"
+  "name": "Eduardo D. Graziano",
+  "education": {
+    "header": "Education",
+    "body": [
+      {
+        "college": "University of Florida, College of Liberal Arts and Sciences",
+        "degree": "Bachelor of Science - Computer Science",
+        "year": "Class of 2020 - Gainesville, Florida"
+      }
+    ]
+  }
 }
