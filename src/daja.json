@@ -1,5 +1,6 @@
 {
   "name": "Eduardo D. Graziano",
+  "introduction": "Hi! I'm a full-stack software developer based in NYC",
   "education": {
     "header": "Education",
     "body": [
@@ -7,6 +8,41 @@
         "college": "University of Florida, College of Liberal Arts and Sciences",
         "degree": "Bachelor of Science - Computer Science",
         "year": "Class of 2020 - Gainesville, Florida"
+      }
+    ]
+  },
+  "work": {
+    "header": "Work Experience",
+    "body":[
+      {
+        "company": "American Express",
+        "title": "Engineer III",
+        "link": "https://www.americanexpress.com/",
+        "description": [
+          "Some important info",
+          "More important info about mu job",
+          "Not sure what to write, but whatever"
+        ]
+      },
+      {
+        "company": "American Express",
+        "title": "Software Engineer Intern",
+        "link": "https://www.americanexpress.com/",
+        "description": [
+          "Some important info",
+          "More important info about mu job",
+          "Not sure what to write, but whatever"
+        ]
+      },
+      {
+        "company": "Optym",
+        "title": "Software Engineer Intern",
+        "link": "https://optym.com/",
+        "description": [
+          "Some important info",
+          "More important info about mu job",
+          "Not sure what to write, but whatever"
+        ]
       }
     ]
   }

@@ -2,6 +2,7 @@ import { AppWrapper } from './styles';
 import Header from '../Header/Header';
 import Contact from '../Contact/Contact';
 import Education from '../Education/Education';
+import Work from '../Work/Work';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <Contact />
         <Header />
         <Education />
+        <Work />
       </AppWrapper>
     </div>
   );
