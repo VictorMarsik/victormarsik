@@ -16,7 +16,7 @@ const Work = () => {
         <WorkHeader>{work.header}</WorkHeader>
         {work.body.map((employer) => (
           <WorkBodyContainer>
-            <WorkCompany href={employer.link}>{employer.company}</WorkCompany>
+            <WorkCompany href={employer.link} target="_blank">{employer.company}</WorkCompany>
             <WorkTitle>{employer.title}</WorkTitle>
             <ul>
               {employer.description.map((text) => (

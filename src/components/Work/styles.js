@@ -22,6 +22,7 @@ const WorkBodyContainer = styled.div`
 
 const WorkCompany = styled.a`
   font-size: 1.2rem;
+  font-weight: bold;
   font-family: 'Nunito';
 `;
 
