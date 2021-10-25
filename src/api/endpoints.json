@@ -1,0 +1,5 @@
+{
+  "weather": {
+    "url": "https://api.openweathermap.org/data/2.5/weather?q=New%20york&appid=36ad57b7cf3a59fc2de69a11d40e90a7&units=imperial"
+  }
+}

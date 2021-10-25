@@ -20,7 +20,7 @@
         "link": "https://www.americanexpress.com/",
         "description": [
           "Worked on multiple features and bug fixes for the non-card lending organization & the international card applications using Javascript, React, NodeJS",
-          "Completed code refactors in different codebases in order to improve code queality and reduce redundant code",
+          "Completed code refactors in different codebases in order to improve code quality and reduce redundant code",
           "Contributed to innovation features to improve some technical aspects of our applications",
           "Developed testing suites for the front-end and back-end, involving unit test and automation scripts to ensure code reliability using Jest, Webdriver.io, Selenium, Cucumber",
           "Deployed applications to production environments by utilizing the CI/CD pipeline",
