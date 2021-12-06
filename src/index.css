@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.myPill {
+  background-color: #766f5f !important;
+}
+
+/* .accordion-item {
+  background-color: #766f5f !important;
+}
+
+.accordion-button {
+  background-color: aqua !important;
+
+} */
