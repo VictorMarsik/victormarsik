@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/eduardodgraziano/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/eduardodgraziano/static/js/main.8cc188e9.chunk.js",
-    "main.js.map": "/eduardodgraziano/static/js/main.8cc188e9.chunk.js.map",
-    "runtime-main.js": "/eduardodgraziano/static/js/runtime-main.ae848c1d.js",
-    "runtime-main.js.map": "/eduardodgraziano/static/js/runtime-main.ae848c1d.js.map",
+    "main.css": "/eduardodgraziano/static/css/main.348d9a92.chunk.css",
+    "main.js": "/eduardodgraziano/static/js/main.01f79abd.chunk.js",
+    "main.js.map": "/eduardodgraziano/static/js/main.01f79abd.chunk.js.map",
+    "runtime-main.js": "/eduardodgraziano/static/js/runtime-main.fee20efa.js",
+    "runtime-main.js.map": "/eduardodgraziano/static/js/runtime-main.fee20efa.js.map",
     "static/css/2.c1256375.chunk.css": "/eduardodgraziano/static/css/2.c1256375.chunk.css",
-    "static/js/2.94dcf2ed.chunk.js": "/eduardodgraziano/static/js/2.94dcf2ed.chunk.js",
-    "static/js/2.94dcf2ed.chunk.js.map": "/eduardodgraziano/static/js/2.94dcf2ed.chunk.js.map",
-    "static/js/3.54d35da2.chunk.js": "/eduardodgraziano/static/js/3.54d35da2.chunk.js",
-    "static/js/3.54d35da2.chunk.js.map": "/eduardodgraziano/static/js/3.54d35da2.chunk.js.map",
+    "static/js/2.9556101d.chunk.js": "/eduardodgraziano/static/js/2.9556101d.chunk.js",
+    "static/js/2.9556101d.chunk.js.map": "/eduardodgraziano/static/js/2.9556101d.chunk.js.map",
+    "static/js/3.aef5bfd8.chunk.js": "/eduardodgraziano/static/js/3.aef5bfd8.chunk.js",
+    "static/js/3.aef5bfd8.chunk.js.map": "/eduardodgraziano/static/js/3.aef5bfd8.chunk.js.map",
     "index.html": "/eduardodgraziano/index.html",
     "static/css/2.c1256375.chunk.css.map": "/eduardodgraziano/static/css/2.c1256375.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/eduardodgraziano/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.94dcf2ed.chunk.js.LICENSE.txt": "/eduardodgraziano/static/js/2.94dcf2ed.chunk.js.LICENSE.txt",
+    "static/css/main.348d9a92.chunk.css.map": "/eduardodgraziano/static/css/main.348d9a92.chunk.css.map",
+    "static/js/2.9556101d.chunk.js.LICENSE.txt": "/eduardodgraziano/static/js/2.9556101d.chunk.js.LICENSE.txt",
     "static/media/profile.d3efa617.jpg": "/eduardodgraziano/static/media/profile.d3efa617.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae848c1d.js",
+    "static/js/runtime-main.fee20efa.js",
     "static/css/2.c1256375.chunk.css",
-    "static/js/2.94dcf2ed.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.8cc188e9.chunk.js"
+    "static/js/2.9556101d.chunk.js",
+    "static/css/main.348d9a92.chunk.css",
+    "static/js/main.01f79abd.chunk.js"
   ]
 }
