@@ -62,6 +62,30 @@
   },
   "skills": {
     "header": "Skills",
-    "list": ["haha", "idk"]
+    "list": [
+      "Javascript",
+      "ReactJS",
+      "React Native",
+      "JEST",
+      "Selenium",
+      "Git",
+      "Java",
+      "C++",
+      "Python",
+      "Express.js",
+      "NodeJS",
+      "GraphQL",
+      "SQL",
+      "Flask",
+      "Django",
+      "Angular.js",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Semantic UI",
+      "Machine Learning",
+      "TestNG",
+      "Agile/Scrum Development"
+    ]
   }
 }
