@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/eduardodgraziano/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/eduardodgraziano/static/js/main.b9e28a9f.chunk.js",
-    "main.js.map": "/eduardodgraziano/static/js/main.b9e28a9f.chunk.js.map",
+    "main.js": "/eduardodgraziano/static/js/main.8cc188e9.chunk.js",
+    "main.js.map": "/eduardodgraziano/static/js/main.8cc188e9.chunk.js.map",
     "runtime-main.js": "/eduardodgraziano/static/js/runtime-main.ae848c1d.js",
     "runtime-main.js.map": "/eduardodgraziano/static/js/runtime-main.ae848c1d.js.map",
     "static/css/2.c1256375.chunk.css": "/eduardodgraziano/static/css/2.c1256375.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.c1256375.chunk.css",
     "static/js/2.94dcf2ed.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.b9e28a9f.chunk.js"
+    "static/js/main.8cc188e9.chunk.js"
   ]
 }
