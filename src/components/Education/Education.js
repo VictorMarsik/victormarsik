@@ -1,9 +1,10 @@
 import Col from 'react-bootstrap/Col';
 import Accordion from 'react-bootstrap/Accordion';
-import { education } from '../../daja.json';
+import data from '../../data';
 import { EducationContainer, EducationHeader, EducationBody } from './styles';
 
 const Education = () => {
+  const { education } = data;
   return (
     <EducationContainer>
       <Col md={8} xs={12}>

@@ -8,9 +8,10 @@ import {
   WorkTitle,
   DescriptionItem,
 } from './styles';
-import { work } from '../../daja.json';
+import data from '../../data';
 
 const Work = () => {
+  const { work } = data;
   return (
     <WorkContainer>
       <Col md={8} xs={12}>

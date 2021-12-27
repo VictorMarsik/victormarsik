@@ -17,6 +17,34 @@ const ProjectsHeader = styled.p`
 const CarouselWrapper = styled.div`
   display: flex;
   justify-content: center;
+  padding-bottom: 1rem;
 `;
 
-export { ProjectsContainer, ProjectsHeader, CarouselWrapper };
+const ProjectContainer = styled.div`
+  display: flex;
+  justify-content: center;
+`;
+
+const ProjectTitle = styled.p`
+  font-size: 1.7rem;
+  font-family: 'Nunito';
+  margin: 0;
+  padding-bottom: 0.5rem;
+  font-weight: bold;
+`;
+
+const ProjectDescription = styled.p`
+  font-size: 1rem;
+  font-family: 'Nunito';
+  margin: 0;
+  padding-bottom: 0.5rem;
+`;
+
+export {
+  ProjectsContainer,
+  ProjectsHeader,
+  CarouselWrapper,
+  ProjectTitle,
+  ProjectContainer,
+  ProjectDescription,
+};

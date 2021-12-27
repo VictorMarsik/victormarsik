@@ -7,9 +7,10 @@ import {
   IntroductionText,
 } from './styles';
 import pic from '../../assets/profile.jpg';
-import { name, introduction } from '../../daja.json';
+import data from '../../data';
 
 const Header = () => {
+  const { name, introduction} = data;
   return (
     <HeaderContainer>
       <Col sm={12} md={7}>

@@ -1,8 +1,9 @@
 import { SkillsHeader, SkillBadge, SkillsContainer } from './styles';
-import { skills } from '../../daja.json';
+import data from '../../data';
 import Col from 'react-bootstrap/Col';
 
 const Skills = () => {
+  const { skills } = data;
   return (
     <SkillsContainer>
       <Col md={8} xs={12}>

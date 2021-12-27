@@ -2,13 +2,19 @@ import Col from 'react-bootstrap/Col';
 import Carousel from 'react-bootstrap/Carousel';
 import Accordion from 'react-bootstrap/Accordion';
 
-import { ProjectsContainer, ProjectsHeader, CarouselWrapper } from './styles';
-import { projects } from '../../daja.json';
-import membershpe from '../../assets/membershpe.png';
-import register from '../../assets/register.png';
-import login from '../../assets/login.png';
+import {
+  ProjectsContainer,
+  ProjectsHeader,
+  CarouselWrapper,
+  ProjectTitle,
+  ProjectContainer,
+  ProjectDescription,
+} from './styles';
+import data from '../../data';
 
 const Projects = () => {
+  const { projects } = data;
+  const { body } = projects;
   return (
     <ProjectsContainer>
       <Col md={8} xs={12}>
@@ -17,33 +23,30 @@ const Projects = () => {
             <ProjectsHeader>{projects.header}</ProjectsHeader>
           </Accordion.Header>
           <Accordion.Body>
-            <CarouselWrapper>
-              <Col md={11} xs={12}>
-                <Carousel>
-                  <Carousel.Item>
-                    <img
-                      className='d-block w-100'
-                      src={membershpe}
-                      alt='First slide'
-                    />
-                  </Carousel.Item>
-                  <Carousel.Item>
-                    <img
-                      className='d-block w-100'
-                      src={register}
-                      alt='First slide'
-                    />
-                  </Carousel.Item>
-                  <Carousel.Item>
-                    <img
-                      className='d-block w-100'
-                      src={login}
-                      alt='First slide'
-                    />
-                  </Carousel.Item>
-                </Carousel>
-              </Col>
-            </CarouselWrapper>
+            {body.map((project, index) => (
+              <ProjectContainer>
+                <Col md={10} xs={12}>
+                  <ProjectTitle>{project.title}</ProjectTitle>
+                  <CarouselWrapper>
+                    <Carousel interval={3000}>
+                      {project.pictures.map((pic, index) => (
+                        <Carousel.Item>
+                          <img
+                            className='mw-100'
+                            src={pic}
+                            alt={`${index} slide`}
+                          />
+                        </Carousel.Item>
+                      ))}
+                    </Carousel>
+                  </CarouselWrapper>
+                  <ProjectDescription>{project.description}</ProjectDescription>
+                  {index < body.length - 1 ? (
+                    <hr className='project-divider' />
+                  ) : null}
+                </Col>
+              </ProjectContainer>
+            ))}
           </Accordion.Body>
         </Accordion.Item>
       </Col>
