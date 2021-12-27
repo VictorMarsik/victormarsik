@@ -112,7 +112,7 @@ const data = {
         pictures: [membershpe, register, login],
       },
       {
-        title: 'Cavas By Karen eCommerce',
+        title: 'Canvas By Karen eCommerce',
         description:
           'Created an eCommerce application for the selling of custom shoes and clothing desings for a freelance artist.',
         pictures: [eCommerce, qa, theWorks],
