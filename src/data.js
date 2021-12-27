@@ -120,7 +120,7 @@ const data = {
       {
         title: 'News Mobile App',
         description:
-          'Created a news mobile app for learning purposes. Used React Natice, and a free API to obtain the latest news data',
+          'Created a news mobile app for learning purposes. Used React Native, and a free API to obtain the latest news data',
         pictures: [img, img1, img2, img3, img4],
       },
     ],
