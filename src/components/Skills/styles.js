@@ -13,10 +13,12 @@ const SkillsHeader = styled.p`
   font-family: 'Nunito';
   font-weight: bold;
   margin: 0;
+  color: white;
 `;
 
 const SkillBadge = styled(Badge)`
   margin-right: 0.75rem;
+  color: black;
 `;
 
 export { SkillsHeader, SkillBadge, SkillsContainer };

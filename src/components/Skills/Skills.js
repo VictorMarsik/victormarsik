@@ -8,7 +8,7 @@ const Skills = () => {
       <Col md={8} xs={12}>
         <SkillsHeader>{skills.header}</SkillsHeader>
         {skills.list.map((skill) => (
-          <SkillBadge pill variant='primary'>
+          <SkillBadge pill className="myPill" bg={null}>
             {skill}
           </SkillBadge>
         ))}
