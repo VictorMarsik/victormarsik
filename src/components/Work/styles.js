@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container';
 const WorkContainer = styled(Container)`
   display: flex;
   justify-content: center;
-  padding: 0 1rem 1rem 1rem;
+  padding: 1rem;
 `;
 
 const WorkHeader = styled.p`
