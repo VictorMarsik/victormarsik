@@ -4,6 +4,7 @@ import Header from '../Header/Header';
 import Contact from '../Contact/Contact';
 import Education from '../Education/Education';
 import Work from '../Work/Work';
+import Projects from '../Projects/Projects';
 import Skills from '../Skills/Skills';
 
 function App() {
@@ -13,8 +14,9 @@ function App() {
         <Contact />
         <Header />
         <Accordion>
-          <Education />
           <Work />
+          <Projects />
+          <Education />
           <Skills />
         </Accordion>
       </AppWrapper>

@@ -87,5 +87,8 @@
       "TestNG",
       "Agile/Scrum Development"
     ]
+  },
+  "projects": {
+    "header": "Projects"
   }
 }

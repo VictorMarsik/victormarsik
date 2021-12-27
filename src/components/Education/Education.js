@@ -7,7 +7,7 @@ const Education = () => {
   return (
     <EducationContainer>
       <Col md={8} xs={12}>
-        <Accordion.Item eventKey='0'>
+        <Accordion.Item eventKey='2'>
           <Accordion.Header>
             <EducationHeader>{education.header}</EducationHeader>
           </Accordion.Header>

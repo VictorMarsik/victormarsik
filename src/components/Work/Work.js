@@ -14,7 +14,7 @@ const Work = () => {
   return (
     <WorkContainer>
       <Col md={8} xs={12}>
-        <Accordion.Item eventKey='1'>
+        <Accordion.Item eventKey='0'>
           <Accordion.Header>
             <WorkHeader>{work.header}</WorkHeader>
           </Accordion.Header>
