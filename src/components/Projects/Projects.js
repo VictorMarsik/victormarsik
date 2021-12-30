@@ -17,7 +17,7 @@ const Project = ({ length, project, index }) => (
     <Col md={10} xs={12}>
       <ProjectTitle>{project.title}</ProjectTitle>
       <CarouselWrapper>
-        <Carousel interval={3000}>
+        <Carousel interval={5000}>
           {project.pictures.map((pic, index) => (
             <Carousel.Item>
               <img className='w-100' src={pic} alt={`${index} slide`} />

@@ -10,17 +10,15 @@ import Skills from '../Skills/Skills';
 function App() {
   return (
     <div className='App'>
-      <AppWrapper>
         <Contact />
         <Header />
         <Accordion>
           <Education />
           <Work />
-          <Projects />
-          
+          <Projects />        
           <Skills />
         </Accordion>
-      </AppWrapper>
+      
     </div>
   );
 }
