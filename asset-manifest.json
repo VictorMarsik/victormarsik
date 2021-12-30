@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/victormarsik/static/css/main.e43d12b7.chunk.css",
-    "main.js": "/victormarsik/static/js/main.5f478402.chunk.js",
-    "main.js.map": "/victormarsik/static/js/main.5f478402.chunk.js.map",
+    "main.css": "/victormarsik/static/css/main.0567db61.chunk.css",
+    "main.js": "/victormarsik/static/js/main.373dd809.chunk.js",
+    "main.js.map": "/victormarsik/static/js/main.373dd809.chunk.js.map",
     "runtime-main.js": "/victormarsik/static/js/runtime-main.891c60bf.js",
     "runtime-main.js.map": "/victormarsik/static/js/runtime-main.891c60bf.js.map",
     "static/css/2.c1256375.chunk.css": "/victormarsik/static/css/2.c1256375.chunk.css",
@@ -12,14 +12,15 @@
     "static/js/3.07a000b8.chunk.js.map": "/victormarsik/static/js/3.07a000b8.chunk.js.map",
     "index.html": "/victormarsik/index.html",
     "static/css/2.c1256375.chunk.css.map": "/victormarsik/static/css/2.c1256375.chunk.css.map",
-    "static/css/main.e43d12b7.chunk.css.map": "/victormarsik/static/css/main.e43d12b7.chunk.css.map",
+    "static/css/main.0567db61.chunk.css.map": "/victormarsik/static/css/main.0567db61.chunk.css.map",
     "static/js/2.b0025fa1.chunk.js.LICENSE.txt": "/victormarsik/static/js/2.b0025fa1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/victormarsik/static/media/background.273938a2.jpg",
+    "static/media/blackbox2.016770db.jpg": "/victormarsik/static/media/blackbox2.016770db.jpg",
+    "static/media/blackbox3.8bee5916.mp4": "/victormarsik/static/media/blackbox3.8bee5916.mp4",
+    "static/media/blackbox4.08659ad7.JPG": "/victormarsik/static/media/blackbox4.08659ad7.JPG",
     "static/media/eCommerce.20a29621.png": "/victormarsik/static/media/eCommerce.20a29621.png",
-    "static/media/img.df07b7a5.png": "/victormarsik/static/media/img.df07b7a5.png",
-    "static/media/img1.60f30058.png": "/victormarsik/static/media/img1.60f30058.png",
-    "static/media/img2.27735e5b.png": "/victormarsik/static/media/img2.27735e5b.png",
-    "static/media/img3.61cdb630.png": "/victormarsik/static/media/img3.61cdb630.png",
-    "static/media/img4.057d0de8.png": "/victormarsik/static/media/img4.057d0de8.png",
+    "static/media/ewb1.c42565e3.png": "/victormarsik/static/media/ewb1.c42565e3.png",
+    "static/media/ewb2.4a0f1b41.JPG": "/victormarsik/static/media/ewb2.4a0f1b41.JPG",
     "static/media/login.95e92e36.png": "/victormarsik/static/media/login.95e92e36.png",
     "static/media/membershpe.361533df.png": "/victormarsik/static/media/membershpe.361533df.png",
     "static/media/profile.2075e436.jpg": "/victormarsik/static/media/profile.2075e436.jpg",
@@ -31,7 +32,7 @@
     "static/js/runtime-main.891c60bf.js",
     "static/css/2.c1256375.chunk.css",
     "static/js/2.b0025fa1.chunk.js",
-    "static/css/main.e43d12b7.chunk.css",
-    "static/js/main.5f478402.chunk.js"
+    "static/css/main.0567db61.chunk.css",
+    "static/js/main.373dd809.chunk.js"
   ]
 }
