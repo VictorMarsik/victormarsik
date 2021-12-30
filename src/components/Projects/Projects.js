@@ -37,7 +37,7 @@ const Projects = () => {
   return (
     <ProjectsContainer>
       <Col md={8} xs={12}>
-        <Accordion.Item eventKey='1'>
+        <Accordion.Item eventKey='2'>
           <Accordion.Header>
             <ProjectsHeader>{projects.header}</ProjectsHeader>
           </Accordion.Header>

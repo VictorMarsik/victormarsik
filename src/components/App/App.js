@@ -14,9 +14,10 @@ function App() {
         <Contact />
         <Header />
         <Accordion>
+          <Education />
           <Work />
           <Projects />
-          <Education />
+          
           <Skills />
         </Accordion>
       </AppWrapper>

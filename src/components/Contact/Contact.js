@@ -29,19 +29,19 @@ const Contact = () => {
     <Wrapper>
       <Col sm={8}>
         <SocialIcon
-          url='https://www.linkedin.com/in/eduardo-graziano-7795ab166/'
+          url='https://www.linkedin.com/in/victor-marsik-07038413b/'
           target='_blank'
           bgColor='#766f5f'
           style={{ height: 60, width: 60, marginRight: '1rem' }}
         />
         <SocialIcon
-          url='https://github.com/Eddy98'
+          url='https://github.com/VictorMarsik'
           target='_blank'
           bgColor='#766f5f'
           style={{ height: 60, width: 60, marginRight: '1rem' }}
         />
         <SocialIcon
-          url='mailto:eduardodgraziano@gmail.com'
+          url='mailto:victormarsik@gmail.com'
           target='_blank'
           bgColor='#766f5f'
           style={{ height: 60, width: 60 }}
@@ -57,7 +57,7 @@ const Contact = () => {
                 {state && (
                   <WeatherWrapper>
                     <WeatherText>
-                      {`What's the weather like in ${state.city}?`}
+                      {`What's the current weather like in ${state.city}?`}
                       <br />
                       <b>{`${state.description}, ${Math.round(
                         state.temp

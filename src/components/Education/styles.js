@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container';
 const EducationContainer = styled(Container)`
   display: flex;
   justify-content: center;
-  padding: 0 1rem 1rem 1rem;
+  padding: 0 1rem;
 `;
 
 const EducationHeader = styled.p`

@@ -14,7 +14,7 @@ import img4 from './assets/img4.png';
 
 const data = {
   name: 'Victor D. Marsik',
-  introduction: "Hi! I'm a full-stack software developer based in NYC",
+  introduction: "Hi! I'm an Electrical Engineer student based in Ottawa",
   education: {
     header: 'Education',
     body: [
