@@ -13,7 +13,7 @@ import img3 from './assets/img3.png';
 import img4 from './assets/img4.png';
 
 const data = {
-  name: 'Eduardo D. Graziano',
+  name: 'Victor D. Marsik',
   introduction: "Hi! I'm a full-stack software developer based in NYC",
   education: {
     header: 'Education',
