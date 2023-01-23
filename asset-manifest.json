@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/victormarsik/static/css/main.0567db61.chunk.css",
-    "main.js": "/victormarsik/static/js/main.1782fe5d.chunk.js",
-    "main.js.map": "/victormarsik/static/js/main.1782fe5d.chunk.js.map",
+    "main.js": "/victormarsik/static/js/main.c3ef9b18.chunk.js",
+    "main.js.map": "/victormarsik/static/js/main.c3ef9b18.chunk.js.map",
     "runtime-main.js": "/victormarsik/static/js/runtime-main.891c60bf.js",
     "runtime-main.js.map": "/victormarsik/static/js/runtime-main.891c60bf.js.map",
     "static/css/2.c1256375.chunk.css": "/victormarsik/static/css/2.c1256375.chunk.css",
@@ -27,7 +27,7 @@
     "static/media/ewb2.747b017f.JPG": "/victormarsik/static/media/ewb2.747b017f.JPG",
     "static/media/login.95e92e36.png": "/victormarsik/static/media/login.95e92e36.png",
     "static/media/membershpe.361533df.png": "/victormarsik/static/media/membershpe.361533df.png",
-    "static/media/profile.560a4aa1.jpg": "/victormarsik/static/media/profile.560a4aa1.jpg",
+    "static/media/profile.fb9ddb1f.jpg": "/victormarsik/static/media/profile.fb9ddb1f.jpg",
     "static/media/q&a.56f16a68.png": "/victormarsik/static/media/q&a.56f16a68.png",
     "static/media/register.4c6d98c8.png": "/victormarsik/static/media/register.4c6d98c8.png",
     "static/media/theWorks.35a59156.png": "/victormarsik/static/media/theWorks.35a59156.png",
@@ -40,6 +40,6 @@
     "static/css/2.c1256375.chunk.css",
     "static/js/2.d3a8b813.chunk.js",
     "static/css/main.0567db61.chunk.css",
-    "static/js/main.1782fe5d.chunk.js"
+    "static/js/main.c3ef9b18.chunk.js"
   ]
 }
