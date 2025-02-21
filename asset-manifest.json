@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/victormarsik/static/css/main.0acb0436.css",
-    "main.js": "/victormarsik/static/js/main.e66009df.js",
-    "static/js/453.13ebf09c.chunk.js": "/victormarsik/static/js/453.13ebf09c.chunk.js",
+    "main.js": "/victormarsik/static/js/main.be9a3bf8.js",
+    "static/js/453.eea2801e.chunk.js": "/victormarsik/static/js/453.eea2801e.chunk.js",
     "static/media/blackbox3.mp4": "/victormarsik/static/media/blackbox3.8bee5916faf810848be2.mp4",
     "static/media/membershpe.png": "/victormarsik/static/media/membershpe.361533dffdfe346ac9ec.png",
     "static/media/login.png": "/victormarsik/static/media/login.95e92e36db6766203228.png",
@@ -11,6 +11,9 @@
     "static/media/eCommerce.png": "/victormarsik/static/media/eCommerce.20a296214b9ac33405a2.png",
     "static/media/ap2.jpg": "/victormarsik/static/media/ap2.d5bd6f60c056a8aef871.jpg",
     "static/media/blackbox2.jpg": "/victormarsik/static/media/blackbox2.c1dd8b1528f0d2baff3d.jpg",
+    "static/media/rsqm2.jpg": "/victormarsik/static/media/rsqm2.1296dfb4e1e745dbd5d0.jpg",
+    "static/media/rsqm.jpg": "/victormarsik/static/media/rsqm.ef3f4b1a8c63eadc933a.jpg",
+    "static/media/robot.jpg": "/victormarsik/static/media/robot.a52358d5656c5fa5c16e.jpg",
     "static/media/background.jpg": "/victormarsik/static/media/background.273938a2ffbabc562a45.jpg",
     "static/media/ap1.jpg": "/victormarsik/static/media/ap1.ac4ffbe254a8aadfa4bf.jpg",
     "static/media/blackbox4.jpg": "/victormarsik/static/media/blackbox4.bcb85aaf9f2dc7c63b2e.jpg",
@@ -19,17 +22,18 @@
     "static/media/q&a.png": "/victormarsik/static/media/q&a.56f16a689b8224cc2eb1.png",
     "static/media/ewb2.JPG": "/victormarsik/static/media/ewb2.747b017f442f6160954f.JPG",
     "static/media/watch1.jpeg": "/victormarsik/static/media/watch1.1da2471cd53558599b38.jpeg",
+    "static/media/profile.jpg": "/victormarsik/static/media/profile.30bbc38d206fa34ff379.jpg",
     "static/media/watch3.jpeg": "/victormarsik/static/media/watch3.80c62856acc7202002a2.jpeg",
     "static/media/watch2.jpg": "/victormarsik/static/media/watch2.5b0dbdf7d7dd41820e4b.jpg",
-    "static/media/profile.jpg": "/victormarsik/static/media/profile.fb9ddb1f08531680c673.jpg",
+    "static/media/truck.jpg": "/victormarsik/static/media/truck.ea632e530dc11322c4f9.jpg",
     "static/media/ewb1.png": "/victormarsik/static/media/ewb1.8b875f0480fcdf012583.png",
     "index.html": "/victormarsik/index.html",
     "main.0acb0436.css.map": "/victormarsik/static/css/main.0acb0436.css.map",
-    "main.e66009df.js.map": "/victormarsik/static/js/main.e66009df.js.map",
-    "453.13ebf09c.chunk.js.map": "/victormarsik/static/js/453.13ebf09c.chunk.js.map"
+    "main.be9a3bf8.js.map": "/victormarsik/static/js/main.be9a3bf8.js.map",
+    "453.eea2801e.chunk.js.map": "/victormarsik/static/js/453.eea2801e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0acb0436.css",
-    "static/js/main.e66009df.js"
+    "static/js/main.be9a3bf8.js"
   ]
 }
